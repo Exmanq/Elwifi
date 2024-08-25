@@ -19,9 +19,17 @@ Just, Clone this repository -
 
 git clone https://github.com/Exmanq/Elwifi
 
-Now go to cloned directory 
+Need root user:
+
+$ su root
+
+Now go to cloned directory: 
 
 $ cd Elwifi
+
+and permission:
+
+$ chmod +777 ./run_elwifi.sh
 
 and run this script:
 
