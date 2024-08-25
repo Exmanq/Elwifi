@@ -1,2 +1,2 @@
-python3 /home/kali/Desktop/Elwifi.py
+python3 Elwifi.py
 
