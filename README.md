@@ -17,20 +17,22 @@ Installation / Установка в Linux
 
 Just, Clone this repository -
 
+```
 git clone https://github.com/Exmanq/Elwifi
-
+```
 Need root user:
-
+```
 $ su root
-
+```
 Now go to cloned directory: 
-
+```
 $ cd Elwifi
-
+```
 and permission:
-
+```
 $ chmod +777 ./run_elwifi.sh
-
+```
 and run this script:
-
+```
 $ sudo ./run_elwifi.sh
+```
