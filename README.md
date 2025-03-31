@@ -13,9 +13,7 @@ Version: 1.0
 Created by Exmanq (https://github.com/Exmanq)
 
 
-Installation / Установка в Linux
-
-Just, Clone this repository -
+### Installation / Установка в Linux
 
 ```
 git clone https://github.com/Exmanq/Elwifi
